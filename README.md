@@ -1,2 +1,3 @@
 # test_rep
-laerning basics on git
+learning basics on git
+Well some guy asked to write something in this file, so i'll better listen to him.
